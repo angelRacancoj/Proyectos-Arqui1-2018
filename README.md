@@ -10,3 +10,5 @@ funciones en el auto:
 - Funcion como carro sigue lineas en dos modalidades
   - Semi Automatico (debe mantenerse constantemente presionada la tecla hacia adelante)
   - Automatico (Solo se presiona una vez el boton de inicio y el auto avanzara)
+- Encender dos juegos de luces diferentes
+- Medir distancia para detenerse ante obstaculos (Sensor Ultrasonico) en la modalidad de auto Sigue Lineas
