@@ -6,7 +6,7 @@ Es un proyecto donde se busca controlar un automovil mediante un control desarro
 Android, el cual enviar un caracteres mediante bluetooth al carro, que cobre las siguientes
 funciones en el auto:
 
--> Manejo a control remoto como cualquier otro auto
--> Funcion como carro sigue lineas en dos modalidades
-  -> Semi Automatico (debe mantenerse constantemente presionada la tecla hacia adelante)
-  -> Automatico (Solo se presiona una vez el boton de inicio y el auto avanzara)
+- Manejo a control remoto como cualquier otro auto
+- Funcion como carro sigue lineas en dos modalidades
+  - Semi Automatico (debe mantenerse constantemente presionada la tecla hacia adelante)
+  - Automatico (Solo se presiona una vez el boton de inicio y el auto avanzara)
